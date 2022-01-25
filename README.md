@@ -1,4 +1,4 @@
-![Screenshot example](https://imgur.com/a/yowPSIV)
+![Screenshot example](https://i.imgur.com/ptxJLLR.png)
 
 # dev-environment-lab
 
