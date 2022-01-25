@@ -1,3 +1,5 @@
+![Screenshot example](https://imgur.com/a/yowPSIV)
+
 # dev-environment-lab
 
 ## OS
